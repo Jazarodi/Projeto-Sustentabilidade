@@ -298,14 +298,14 @@ main {
   background-color: var(--roxo);
 }
 
-/* 7Rs Grid Padronizado */
-.grid-7Rs {
+/* 7s Grid Padronizado */
+.grid-7s {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   gap: 1.5rem;
 }
 
-.card-7Rs {
+.card-7s {
   background: #e8f5e9;
   padding: 1.5rem;
   border-radius: 12px;
@@ -313,13 +313,13 @@ main {
   box-shadow: var(--shadow);
 }
 
-.card-7Rs h4 {
+.card-7s h4 {
   color: var(--primary-color);
   margin-bottom: 0.5rem;
   font-size: 1.2rem;
 }
 
-.card-7Rs p {
+.card-7s p {
   font-size: 0.95rem;
   color: #444;
 }
