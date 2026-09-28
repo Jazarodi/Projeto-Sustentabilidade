@@ -305,7 +305,7 @@ main {
   gap: 1.5rem;
 }
 
-.card-7s {
+.card-7Rs {
   background: #e8f5e9;
   padding: 1.5rem;
   border-radius: 12px;
@@ -313,13 +313,13 @@ main {
   box-shadow: var(--shadow);
 }
 
-.card-7s h4 {
+.card-7Rs h4 {
   color: var(--primary-color);
   margin-bottom: 0.5rem;
   font-size: 1.2rem;
 }
 
-.card-7s p {
+.card-7Rs p {
   font-size: 0.95rem;
   color: #444;
 }
