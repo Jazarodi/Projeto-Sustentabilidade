@@ -299,7 +299,7 @@ main {
 }
 
 /* 7s Grid Padronizado */
-.grid-7s {
+.grid-7Rs {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   gap: 1.5rem;
